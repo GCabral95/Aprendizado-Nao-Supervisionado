@@ -10,4 +10,4 @@ LORENA, Ana Carolina; GAMA, João; FACELI, Katti. Inteligência Artificial: Uma 
 
 FÁVERO, Luiz Paulo; BELFIORE, Patrícia. Manual de análise de dados: estatística e modelagem multivariada com Excel®, SPSS® e Stata®. Elsevier Brasil, 2017.
 
-https://scikit-learn.org/stable/modules/clustering.html#clustering
+Clusterização, Scikit Learn. Disponível em: https://scikit-learn.org/stable/modules/clustering.html#clustering
